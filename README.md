@@ -3,6 +3,8 @@ This is the repository for the EEM paper on quantifying capacity expansion limit
 
 You can find the conference paper here:
 https://docs.eem25.pt/SSE%20D3/Quantifying%20renewable%20capacity%20expansion%20limitations%20in%20energy%20system%20modelling%20and%20their%20impact%20on%20future%20hydrogen%20production.pdf
+An here:
+https://doi.org/10.1109/eem64765.2025.11050113
 
 You can find the StEAM project homepage here:
 https://www.ee.ruhr-uni-bochum.de/ee/forschung/steam.html.de
